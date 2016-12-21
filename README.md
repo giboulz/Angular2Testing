@@ -1,5 +1,16 @@
 # Testing
 
+
+test pour angular2, 
+
+tuto du site officiel 
+https://angular.io/docs/ts/latest/guide/testing.html
+
+
+
+
+-------------------------------------------------
+
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.21.
 
 ## Development server
