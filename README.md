@@ -8,6 +8,13 @@ https://angular.io/docs/ts/latest/guide/testing.html
 
 stopped at "Test a component with an async service"
 
+couverture de code : 
+
+ng test --code-coverage
+
+
+le résultat est dans un dossier "coverage"
+
 
 
 
