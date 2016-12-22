@@ -6,6 +6,8 @@ test pour angular2,
 tuto du site officiel 
 https://angular.io/docs/ts/latest/guide/testing.html
 
+stopped at "Test a component with an async service"
+
 
 
 
